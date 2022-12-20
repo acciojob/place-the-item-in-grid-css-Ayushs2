@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.holder{
+    border: 2px solid rgb(19, 17, 17);
+    width:400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    }
+    .item{
+    border: 2px solid rgb(117, 97, 173);
+    height: 200px;
+    width: 50px;
+    }
